@@ -112,5 +112,5 @@ npm run dev
 
 ---
 <div align="center">
-  <i>Developed with ❤️ for Pentaverse OS / Enterprise Evaluator.</i>
+  <i>Developed by Himadri Das.</i>
 </div>

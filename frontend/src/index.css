@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply m-0 p-0 font-sans overflow-x-hidden selection:bg-brand-pink selection:text-white transition-colors duration-700 ease-in-out;
+  }
+
+  /* --- LIGHT MODE AIRY MESH --- */
+  html {
+    @apply bg-[#f8fafc] text-gray-800;
+    background-image: 
+        radial-gradient(ellipse at 15% 50%, rgba(20, 184, 166, 0.1), transparent 30%),
+        radial-gradient(ellipse at 85% 30%, rgba(79, 70, 229, 0.1), transparent 30%),
+        radial-gradient(ellipse at 50% 10%, rgba(236, 72, 153, 0.05), transparent 40%);
+    background-origin: border-box;
+    background-attachment: fixed;
+  }
+}
+
+/* --- DARK MODE ULTRA AURORA MESH --- */
+html.dark {
+  @apply bg-[#030712] text-gray-100;
+  background-image: none; 
+}
+
+/* Awwwards Tier Glass Panels */
+.glass-panel-light {
+  @apply bg-white/60 backdrop-blur-2xl border border-white shadow-[0_10px_40px_rgb(0,0,0,0.06)] rounded-3xl z-10;
+}
+
+.glass-panel-dark {
+  @apply bg-[#0b1120]/80 backdrop-blur-[50px] border border-white/10 shadow-[0_30px_60px_rgba(0,0,0,0.8)] rounded-[2.5rem] z-10;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5), inset 0 2px 0 0 rgba(255, 255, 255, 0.1);
+}
+
+.title-gradient-light {
+    @apply bg-gradient-to-r from-brand-indigo via-brand-teal to-brand-blue text-transparent bg-clip-text drop-shadow-[0_2px_4px_rgba(0,0,0,0.1)];
+    background-size: 200% auto;
+    animation: shine 6s linear infinite;
+}
+
+.title-gradient-dark {
+    @apply bg-gradient-to-r from-brand-teal via-white to-brand-pink text-transparent bg-clip-text drop-shadow-[0_0_20px_rgba(255,255,255,0.2)];
+    background-size: 200% auto;
+    animation: shine 5s linear infinite reverse;
+}
+
+/* Custom Text Reveals */
+.reveal-text span {
+    display: inline-block;
+    opacity: 0;
+    transform: translateY(20px);
+    animation: cascadeReveal 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Dynamic Aurora Orb Core */
+.aurora-orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(120px);
+    opacity: 0.5;
+    z-index: 0;
+    mix-blend-mode: screen;
+}
+
+/* Deep Animations */
+@keyframes shine {
+    to { background-position: 200% center; }
+}
+
+@keyframes cascadeReveal {
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.neon-glow-dark {
+    box-shadow: 0 0 30px rgba(20, 184, 166, 0.3), inset 0 0 15px rgba(20, 184, 166, 0.15);
+}
+.neon-glow-light {
+    box-shadow: 0 0 30px rgba(79, 70, 229, 0.2), inset 0 0 15px rgba(79, 70, 229, 0.05);
+}
+
+/* Sleek Scrollbar */
+::-webkit-scrollbar { width: 8px; }
+
+html.dark ::-webkit-scrollbar-track { background: transparent; }
+html.dark ::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.1); border-radius: 4px; }
+html.dark ::-webkit-scrollbar-thumb:hover { background: rgba(255, 255, 255, 0.3); }
+
+html:not(.dark) ::-webkit-scrollbar-track { background: transparent; }
+html:not(.dark) ::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.15); border-radius: 4px; }
+html:not(.dark) ::-webkit-scrollbar-thumb:hover { background: rgba(0, 0, 0, 0.3); }

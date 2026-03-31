@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+scikit-learn
+PyPDF2
+pdfplumber
+python-docx
+spacy
+rapidfuzz
+plotly
+streamlit-lottie
+reportlab
+nltk

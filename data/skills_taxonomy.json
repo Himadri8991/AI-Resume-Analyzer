@@ -1,0 +1,1490 @@
+{
+    "Change Management": {
+        "aliases": [
+            "change management",
+            "changemanagement",
+            "change-management"
+        ],
+        "category": "Technical"
+    },
+    "Customer Service": {
+        "aliases": [
+            "customer service",
+            "customerservice",
+            "customer-service"
+        ],
+        "category": "Technical"
+    },
+    "Supply Chain": {
+        "aliases": [
+            "supply chain",
+            "supplychain",
+            "supply-chain"
+        ],
+        "category": "Technical"
+    },
+    "Lead Generation": {
+        "aliases": [
+            "lead generation",
+            "leadgeneration",
+            "lead-generation"
+        ],
+        "category": "Technical"
+    },
+    "User Research": {
+        "aliases": [
+            "user research",
+            "userresearch",
+            "user-research"
+        ],
+        "category": "Technical"
+    },
+    "Benefits Administration": {
+        "aliases": [
+            "benefits administration",
+            "benefitsadministration",
+            "benefits-administration"
+        ],
+        "category": "Technical"
+    },
+    "Scrum": {
+        "aliases": [
+            "scrum",
+            "scrum",
+            "scrum"
+        ],
+        "category": "Technical"
+    },
+    "Patient Care": {
+        "aliases": [
+            "patient care",
+            "patientcare",
+            "patient-care"
+        ],
+        "category": "Technical"
+    },
+    "Social Media": {
+        "aliases": [
+            "social media",
+            "socialmedia",
+            "social-media"
+        ],
+        "category": "Technical"
+    },
+    "Operations Management": {
+        "aliases": [
+            "operations management",
+            "operationsmanagement",
+            "operations-management"
+        ],
+        "category": "Technical"
+    },
+    "Capital Markets": {
+        "aliases": [
+            "capital markets",
+            "capitalmarkets",
+            "capital-markets"
+        ],
+        "category": "Technical"
+    },
+    "Illustration": {
+        "aliases": [
+            "illustration",
+            "illustration",
+            "illustration"
+        ],
+        "category": "Technical"
+    },
+    "Photoshop": {
+        "aliases": [
+            "photoshop",
+            "photoshop",
+            "photoshop"
+        ],
+        "category": "Technical"
+    },
+    "Data Analysis": {
+        "aliases": [
+            "data analysis",
+            "dataanalysis",
+            "data-analysis"
+        ],
+        "category": "Technical"
+    },
+    "Financial Reporting": {
+        "aliases": [
+            "financial reporting",
+            "financialreporting",
+            "financial-reporting"
+        ],
+        "category": "Technical"
+    },
+    "Algorithms": {
+        "aliases": [
+            "algorithms",
+            "algorithms",
+            "algorithms"
+        ],
+        "category": "Technical"
+    },
+    "Retirement Planning": {
+        "aliases": [
+            "retirement planning",
+            "retirementplanning",
+            "retirement-planning"
+        ],
+        "category": "Technical"
+    },
+    "Strategy": {
+        "aliases": [
+            "strategy",
+            "strategy",
+            "strategy"
+        ],
+        "category": "Technical"
+    },
+    "Anatomy": {
+        "aliases": [
+            "anatomy",
+            "anatomy",
+            "anatomy"
+        ],
+        "category": "Technical"
+    },
+    "Circuit Design": {
+        "aliases": [
+            "circuit design",
+            "circuitdesign",
+            "circuit-design"
+        ],
+        "category": "Technical"
+    },
+    "SIEM": {
+        "aliases": [
+            "siem",
+            "siem",
+            "siem"
+        ],
+        "category": "Technical"
+    },
+    "Blogging": {
+        "aliases": [
+            "blogging",
+            "blogging",
+            "blogging"
+        ],
+        "category": "Technical"
+    },
+    "Power Systems": {
+        "aliases": [
+            "power systems",
+            "powersystems",
+            "power-systems"
+        ],
+        "category": "Technical"
+    },
+    "Node.js": {
+        "aliases": [
+            "node.js",
+            "node.js",
+            "node.js"
+        ],
+        "category": "Technical"
+    },
+    "Finite Element Analysis": {
+        "aliases": [
+            "finite element analysis",
+            "finiteelementanalysis",
+            "finite-element-analysis"
+        ],
+        "category": "Technical"
+    },
+    "Webpack": {
+        "aliases": [
+            "webpack",
+            "webpack",
+            "webpack"
+        ],
+        "category": "Technical"
+    },
+    "Diagnosis": {
+        "aliases": [
+            "diagnosis",
+            "diagnosis",
+            "diagnosis"
+        ],
+        "category": "Technical"
+    },
+    "Content Strategy": {
+        "aliases": [
+            "content strategy",
+            "contentstrategy",
+            "content-strategy"
+        ],
+        "category": "Technical"
+    },
+    "Machine Learning": {
+        "aliases": [
+            "machine learning",
+            "machinelearning",
+            "machine-learning"
+        ],
+        "category": "Technical"
+    },
+    "CPR": {
+        "aliases": [
+            "cpr",
+            "cpr",
+            "cpr"
+        ],
+        "category": "Technical"
+    },
+    "CAD/CAM": {
+        "aliases": [
+            "cad/cam",
+            "cad/cam",
+            "cad/cam"
+        ],
+        "category": "Technical"
+    },
+    "Surgery": {
+        "aliases": [
+            "surgery",
+            "surgery",
+            "surgery"
+        ],
+        "category": "Technical"
+    },
+    "Financial Analysis": {
+        "aliases": [
+            "financial analysis",
+            "financialanalysis",
+            "financial-analysis"
+        ],
+        "category": "Technical"
+    },
+    "JavaScript": {
+        "aliases": [
+            "javascript",
+            "javascript",
+            "javascript"
+        ],
+        "category": "Technical"
+    },
+    "Typescript": {
+        "aliases": [
+            "typescript",
+            "typescript",
+            "typescript"
+        ],
+        "category": "Technical"
+    },
+    "Closing": {
+        "aliases": [
+            "closing",
+            "closing",
+            "closing"
+        ],
+        "category": "Technical"
+    },
+    "SQL": {
+        "aliases": [
+            "sql",
+            "sql",
+            "sql"
+        ],
+        "category": "Technical"
+    },
+    "FastAPI": {
+        "aliases": [
+            "fastapi",
+            "fastapi",
+            "fastapi"
+        ],
+        "category": "Technical"
+    },
+    "Financial Modeling": {
+        "aliases": [
+            "financial modeling",
+            "financialmodeling",
+            "financial-modeling"
+        ],
+        "category": "Technical"
+    },
+    "Negotiation": {
+        "aliases": [
+            "negotiation",
+            "negotiation",
+            "negotiation"
+        ],
+        "category": "Technical"
+    },
+    "Editing": {
+        "aliases": [
+            "editing",
+            "editing",
+            "editing"
+        ],
+        "category": "Technical"
+    },
+    "Docker": {
+        "aliases": [
+            "docker",
+            "docker",
+            "docker"
+        ],
+        "category": "Technical"
+    },
+    "Keyword Research": {
+        "aliases": [
+            "keyword research",
+            "keywordresearch",
+            "keyword-research"
+        ],
+        "category": "Technical"
+    },
+    "B2B": {
+        "aliases": [
+            "b2b",
+            "b2b",
+            "b2b"
+        ],
+        "category": "Technical"
+    },
+    "Conflict Resolution": {
+        "aliases": [
+            "conflict resolution",
+            "conflictresolution",
+            "conflict-resolution"
+        ],
+        "category": "Technical"
+    },
+    "Git": {
+        "aliases": [
+            "git",
+            "git",
+            "git"
+        ],
+        "category": "Technical"
+    },
+    "Corporate Finance": {
+        "aliases": [
+            "corporate finance",
+            "corporatefinance",
+            "corporate-finance"
+        ],
+        "category": "Technical"
+    },
+    "Visual Communication": {
+        "aliases": [
+            "visual communication",
+            "visualcommunication",
+            "visual-communication"
+        ],
+        "category": "Technical"
+    },
+    "Client Relations": {
+        "aliases": [
+            "client relations",
+            "clientrelations",
+            "client-relations"
+        ],
+        "category": "Technical"
+    },
+    "Vendor Management": {
+        "aliases": [
+            "vendor management",
+            "vendormanagement",
+            "vendor-management"
+        ],
+        "category": "Technical"
+    },
+    "Analytical Skills": {
+        "aliases": [
+            "analytical skills",
+            "analyticalskills",
+            "analytical-skills"
+        ],
+        "category": "Technical"
+    },
+    "Link Building": {
+        "aliases": [
+            "link building",
+            "linkbuilding",
+            "link-building"
+        ],
+        "category": "Technical"
+    },
+    "Project Management": {
+        "aliases": [
+            "project management",
+            "projectmanagement",
+            "project-management"
+        ],
+        "category": "Technical"
+    },
+    "Budgeting": {
+        "aliases": [
+            "budgeting",
+            "budgeting",
+            "budgeting"
+        ],
+        "category": "Technical"
+    },
+    "Geotechnical Engineering": {
+        "aliases": [
+            "geotechnical engineering",
+            "geotechnicalengineering",
+            "geotechnical-engineering"
+        ],
+        "category": "Technical"
+    },
+    "Character Animation": {
+        "aliases": [
+            "character animation",
+            "characteranimation",
+            "character-animation"
+        ],
+        "category": "Technical"
+    },
+    "Treatment Planning": {
+        "aliases": [
+            "treatment planning",
+            "treatmentplanning",
+            "treatment-planning"
+        ],
+        "category": "Technical"
+    },
+    "Pharmacology": {
+        "aliases": [
+            "pharmacology",
+            "pharmacology",
+            "pharmacology"
+        ],
+        "category": "Technical"
+    },
+    "Research": {
+        "aliases": [
+            "research",
+            "research",
+            "research"
+        ],
+        "category": "Technical"
+    },
+    "Django": {
+        "aliases": [
+            "django",
+            "django",
+            "django"
+        ],
+        "category": "Technical"
+    },
+    "CSS": {
+        "aliases": [
+            "css",
+            "css",
+            "css"
+        ],
+        "category": "Technical"
+    },
+    "Compliance": {
+        "aliases": [
+            "compliance",
+            "compliance",
+            "compliance"
+        ],
+        "category": "Technical"
+    },
+    "Performance Management": {
+        "aliases": [
+            "performance management",
+            "performancemanagement",
+            "performance-management"
+        ],
+        "category": "Technical"
+    },
+    "Process Improvement": {
+        "aliases": [
+            "process improvement",
+            "processimprovement",
+            "process-improvement"
+        ],
+        "category": "Technical"
+    },
+    "Manufacturing Processes": {
+        "aliases": [
+            "manufacturing processes",
+            "manufacturingprocesses",
+            "manufacturing-processes"
+        ],
+        "category": "Technical"
+    },
+    "Copywriting": {
+        "aliases": [
+            "copywriting",
+            "copywriting",
+            "copywriting"
+        ],
+        "category": "Technical"
+    },
+    "Color Theory": {
+        "aliases": [
+            "color theory",
+            "colortheory",
+            "color-theory"
+        ],
+        "category": "Technical"
+    },
+    "Jenkins": {
+        "aliases": [
+            "jenkins",
+            "jenkins",
+            "jenkins"
+        ],
+        "category": "Technical"
+    },
+    "Rendering": {
+        "aliases": [
+            "rendering",
+            "rendering",
+            "rendering"
+        ],
+        "category": "Technical"
+    },
+    "Sales": {
+        "aliases": [
+            "sales",
+            "sales",
+            "sales"
+        ],
+        "category": "Technical"
+    },
+    "Agile": {
+        "aliases": [
+            "agile",
+            "agile",
+            "agile"
+        ],
+        "category": "Technical"
+    },
+    "Penetration Testing": {
+        "aliases": [
+            "penetration testing",
+            "penetrationtesting",
+            "penetration-testing"
+        ],
+        "category": "Technical"
+    },
+    "Windows Server": {
+        "aliases": [
+            "windows server",
+            "windowsserver",
+            "windows-server"
+        ],
+        "category": "Technical"
+    },
+    "Stakeholder Management": {
+        "aliases": [
+            "stakeholder management",
+            "stakeholdermanagement",
+            "stakeholder-management"
+        ],
+        "category": "Technical"
+    },
+    "Surveying": {
+        "aliases": [
+            "surveying",
+            "surveying",
+            "surveying"
+        ],
+        "category": "Technical"
+    },
+    "Mentoring": {
+        "aliases": [
+            "mentoring",
+            "mentoring",
+            "mentoring"
+        ],
+        "category": "Technical"
+    },
+    "Organization": {
+        "aliases": [
+            "organization",
+            "organization",
+            "organization"
+        ],
+        "category": "Technical"
+    },
+    "Troubleshooting": {
+        "aliases": [
+            "troubleshooting",
+            "troubleshooting",
+            "troubleshooting"
+        ],
+        "category": "Technical"
+    },
+    "Hardware": {
+        "aliases": [
+            "hardware",
+            "hardware",
+            "hardware"
+        ],
+        "category": "Technical"
+    },
+    "Pandas": {
+        "aliases": [
+            "pandas",
+            "pandas",
+            "pandas"
+        ],
+        "category": "Technical"
+    },
+    "Applicant Tracking Systems": {
+        "aliases": [
+            "applicant tracking systems",
+            "applicanttrackingsystems",
+            "applicant-tracking-systems"
+        ],
+        "category": "Technical"
+    },
+    "Interviewing": {
+        "aliases": [
+            "interviewing",
+            "interviewing",
+            "interviewing"
+        ],
+        "category": "Technical"
+    },
+    "Vitals Monitoring": {
+        "aliases": [
+            "vitals monitoring",
+            "vitalsmonitoring",
+            "vitals-monitoring"
+        ],
+        "category": "Technical"
+    },
+    "Valuation": {
+        "aliases": [
+            "valuation",
+            "valuation",
+            "valuation"
+        ],
+        "category": "Technical"
+    },
+    "Thermodynamics": {
+        "aliases": [
+            "thermodynamics",
+            "thermodynamics",
+            "thermodynamics"
+        ],
+        "category": "Technical"
+    },
+    "PLC": {
+        "aliases": [
+            "plc",
+            "plc",
+            "plc"
+        ],
+        "category": "Technical"
+    },
+    "Tableau": {
+        "aliases": [
+            "tableau",
+            "tableau",
+            "tableau"
+        ],
+        "category": "Technical"
+    },
+    "Time Management": {
+        "aliases": [
+            "time management",
+            "timemanagement",
+            "time-management"
+        ],
+        "category": "Soft"
+    },
+    "Python": {
+        "aliases": [
+            "python",
+            "python",
+            "python"
+        ],
+        "category": "Technical"
+    },
+    "Google Search Console": {
+        "aliases": [
+            "google search console",
+            "googlesearchconsole",
+            "google-search-console"
+        ],
+        "category": "Technical"
+    },
+    "Mathematics": {
+        "aliases": [
+            "mathematics",
+            "mathematics",
+            "mathematics"
+        ],
+        "category": "Technical"
+    },
+    "HTML": {
+        "aliases": [
+            "html",
+            "html",
+            "html"
+        ],
+        "category": "Technical"
+    },
+    "Bash": {
+        "aliases": [
+            "bash",
+            "bash",
+            "bash"
+        ],
+        "category": "Technical"
+    },
+    "Vue": {
+        "aliases": [
+            "vue",
+            "vue",
+            "vue"
+        ],
+        "category": "Technical"
+    },
+    "Interaction Design": {
+        "aliases": [
+            "interaction design",
+            "interactiondesign",
+            "interaction-design"
+        ],
+        "category": "Technical"
+    },
+    "Structural Design": {
+        "aliases": [
+            "structural design",
+            "structuraldesign",
+            "structural-design"
+        ],
+        "category": "Technical"
+    },
+    "Material Science": {
+        "aliases": [
+            "material science",
+            "materialscience",
+            "material-science"
+        ],
+        "category": "Technical"
+    },
+    "Due Diligence": {
+        "aliases": [
+            "due diligence",
+            "duediligence",
+            "due-diligence"
+        ],
+        "category": "Technical"
+    },
+    "Redis": {
+        "aliases": [
+            "redis",
+            "redis",
+            "redis"
+        ],
+        "category": "Technical"
+    },
+    "Microsoft Excel": {
+        "aliases": [
+            "microsoft excel",
+            "microsoftexcel",
+            "microsoft-excel"
+        ],
+        "category": "Technical"
+    },
+    "QuickBooks": {
+        "aliases": [
+            "quickbooks",
+            "quickbooks",
+            "quickbooks"
+        ],
+        "category": "Technical"
+    },
+    "Wealth Management": {
+        "aliases": [
+            "wealth management",
+            "wealthmanagement",
+            "wealth-management"
+        ],
+        "category": "Technical"
+    },
+    "R": {
+        "aliases": [
+            "r",
+            "r",
+            "r"
+        ],
+        "category": "Technical"
+    },
+    "Prototyping": {
+        "aliases": [
+            "prototyping",
+            "prototyping",
+            "prototyping"
+        ],
+        "category": "Technical"
+    },
+    "Six Sigma": {
+        "aliases": [
+            "six sigma",
+            "sixsigma",
+            "six-sigma"
+        ],
+        "category": "Technical"
+    },
+    "Campaign Management": {
+        "aliases": [
+            "campaign management",
+            "campaignmanagement",
+            "campaign-management"
+        ],
+        "category": "Technical"
+    },
+    "UI/UX": {
+        "aliases": [
+            "ui/ux",
+            "ui/ux",
+            "ui/ux"
+        ],
+        "category": "Technical"
+    },
+    "Linux": {
+        "aliases": [
+            "linux",
+            "linux",
+            "linux"
+        ],
+        "category": "Technical"
+    },
+    "Kinesiology": {
+        "aliases": [
+            "kinesiology",
+            "kinesiology",
+            "kinesiology"
+        ],
+        "category": "Technical"
+    },
+    "Medical Billing": {
+        "aliases": [
+            "medical billing",
+            "medicalbilling",
+            "medical-billing"
+        ],
+        "category": "Technical"
+    },
+    "Team Management": {
+        "aliases": [
+            "team management",
+            "teammanagement",
+            "team-management"
+        ],
+        "category": "Technical"
+    },
+    "Ansible": {
+        "aliases": [
+            "ansible",
+            "ansible",
+            "ansible"
+        ],
+        "category": "Technical"
+    },
+    "SEM": {
+        "aliases": [
+            "sem",
+            "sem",
+            "sem"
+        ],
+        "category": "Technical"
+    },
+    "Exercise Prescription": {
+        "aliases": [
+            "exercise prescription",
+            "exerciseprescription",
+            "exercise-prescription"
+        ],
+        "category": "Technical"
+    },
+    "Communication": {
+        "aliases": [
+            "communication",
+            "communication",
+            "communication"
+        ],
+        "category": "Soft"
+    },
+    "Risk Management": {
+        "aliases": [
+            "risk management",
+            "riskmanagement",
+            "risk-management"
+        ],
+        "category": "Technical"
+    },
+    "Construction Management": {
+        "aliases": [
+            "construction management",
+            "constructionmanagement",
+            "construction-management"
+        ],
+        "category": "Technical"
+    },
+    "AWS": {
+        "aliases": [
+            "aws",
+            "aws",
+            "aws"
+        ],
+        "category": "Technical"
+    },
+    "Physics": {
+        "aliases": [
+            "physics",
+            "physics",
+            "physics"
+        ],
+        "category": "Technical"
+    },
+    "GAAP": {
+        "aliases": [
+            "gaap",
+            "gaap",
+            "gaap"
+        ],
+        "category": "Technical"
+    },
+    "Triage": {
+        "aliases": [
+            "triage",
+            "triage",
+            "triage"
+        ],
+        "category": "Technical"
+    },
+    "Scheduling": {
+        "aliases": [
+            "scheduling",
+            "scheduling",
+            "scheduling"
+        ],
+        "category": "Technical"
+    },
+    "Maya": {
+        "aliases": [
+            "maya",
+            "maya",
+            "maya"
+        ],
+        "category": "Technical"
+    },
+    "Network Security": {
+        "aliases": [
+            "network security",
+            "networksecurity",
+            "network-security"
+        ],
+        "category": "Technical"
+    },
+    "Taxation": {
+        "aliases": [
+            "taxation",
+            "taxation",
+            "taxation"
+        ],
+        "category": "Technical"
+    },
+    "Cross-functional Leadership": {
+        "aliases": [
+            "cross-functional leadership",
+            "cross-functionalleadership",
+            "cross-functional-leadership"
+        ],
+        "category": "Technical"
+    },
+    "Attention to Detail": {
+        "aliases": [
+            "attention to detail",
+            "attentiontodetail",
+            "attention-to-detail"
+        ],
+        "category": "Soft"
+    },
+    "Typography": {
+        "aliases": [
+            "typography",
+            "typography",
+            "typography"
+        ],
+        "category": "Technical"
+    },
+    "Wireframing": {
+        "aliases": [
+            "wireframing",
+            "wireframing",
+            "wireframing"
+        ],
+        "category": "Technical"
+    },
+    "Java": {
+        "aliases": [
+            "java",
+            "java",
+            "java"
+        ],
+        "category": "Technical"
+    },
+    "Incident Response": {
+        "aliases": [
+            "incident response",
+            "incidentresponse",
+            "incident-response"
+        ],
+        "category": "Technical"
+    },
+    "M&A": {
+        "aliases": [
+            "m&a",
+            "m&a",
+            "m&a"
+        ],
+        "category": "Technical"
+    },
+    "Off-Page SEO": {
+        "aliases": [
+            "off-page seo",
+            "off-pageseo",
+            "off-page-seo"
+        ],
+        "category": "Technical"
+    },
+    "Sourcing": {
+        "aliases": [
+            "sourcing",
+            "sourcing",
+            "sourcing"
+        ],
+        "category": "Technical"
+    },
+    "Statistics": {
+        "aliases": [
+            "statistics",
+            "statistics",
+            "statistics"
+        ],
+        "category": "Technical"
+    },
+    "Rigging": {
+        "aliases": [
+            "rigging",
+            "rigging",
+            "rigging"
+        ],
+        "category": "Technical"
+    },
+    "Kubernetes": {
+        "aliases": [
+            "kubernetes",
+            "kubernetes",
+            "kubernetes"
+        ],
+        "category": "Technical"
+    },
+    "Creativity": {
+        "aliases": [
+            "creativity",
+            "creativity",
+            "creativity"
+        ],
+        "category": "Soft"
+    },
+    "Control Systems": {
+        "aliases": [
+            "control systems",
+            "controlsystems",
+            "control-systems"
+        ],
+        "category": "Technical"
+    },
+    "Data Visualization": {
+        "aliases": [
+            "data visualization",
+            "datavisualization",
+            "data-visualization"
+        ],
+        "category": "Technical"
+    },
+    "Market Research": {
+        "aliases": [
+            "market research",
+            "marketresearch",
+            "market-research"
+        ],
+        "category": "Technical"
+    },
+    "Branding": {
+        "aliases": [
+            "branding",
+            "branding",
+            "branding"
+        ],
+        "category": "Technical"
+    },
+    "TensorFlow": {
+        "aliases": [
+            "tensorflow",
+            "tensorflow",
+            "tensorflow"
+        ],
+        "category": "Technical"
+    },
+    "Blender": {
+        "aliases": [
+            "blender",
+            "blender",
+            "blender"
+        ],
+        "category": "Technical"
+    },
+    "Microservices": {
+        "aliases": [
+            "microservices",
+            "microservices",
+            "microservices"
+        ],
+        "category": "Technical"
+    },
+    "Firewalls": {
+        "aliases": [
+            "firewalls",
+            "firewalls",
+            "firewalls"
+        ],
+        "category": "Technical"
+    },
+    "Process Modeling": {
+        "aliases": [
+            "process modeling",
+            "processmodeling",
+            "process-modeling"
+        ],
+        "category": "Technical"
+    },
+    "Requirements Gathering": {
+        "aliases": [
+            "requirements gathering",
+            "requirementsgathering",
+            "requirements-gathering"
+        ],
+        "category": "Technical"
+    },
+    "PostgreSQL": {
+        "aliases": [
+            "postgresql",
+            "postgresql",
+            "postgresql"
+        ],
+        "category": "Technical"
+    },
+    "Portfolio Management": {
+        "aliases": [
+            "portfolio management",
+            "portfoliomanagement",
+            "portfolio-management"
+        ],
+        "category": "Technical"
+    },
+    "Email Marketing": {
+        "aliases": [
+            "email marketing",
+            "emailmarketing",
+            "email-marketing"
+        ],
+        "category": "Technical"
+    },
+    "React": {
+        "aliases": [
+            "react",
+            "react",
+            "react"
+        ],
+        "category": "Technical"
+    },
+    "Illustrator": {
+        "aliases": [
+            "illustrator",
+            "illustrator",
+            "illustrator"
+        ],
+        "category": "Technical"
+    },
+    "Leadership": {
+        "aliases": [
+            "leadership",
+            "leadership",
+            "leadership"
+        ],
+        "category": "Soft"
+    },
+    "Medication Administration": {
+        "aliases": [
+            "medication administration",
+            "medicationadministration",
+            "medication-administration"
+        ],
+        "category": "Technical"
+    },
+    "Employee Relations": {
+        "aliases": [
+            "employee relations",
+            "employeerelations",
+            "employee-relations"
+        ],
+        "category": "Technical"
+    },
+    "API Design": {
+        "aliases": [
+            "api design",
+            "apidesign",
+            "api-design"
+        ],
+        "category": "Technical"
+    },
+    "Layout Design": {
+        "aliases": [
+            "layout design",
+            "layoutdesign",
+            "layout-design"
+        ],
+        "category": "Technical"
+    },
+    "Patient Assessment": {
+        "aliases": [
+            "patient assessment",
+            "patientassessment",
+            "patient-assessment"
+        ],
+        "category": "Technical"
+    },
+    "Terraform": {
+        "aliases": [
+            "terraform",
+            "terraform",
+            "terraform"
+        ],
+        "category": "Technical"
+    },
+    "Problem Solving": {
+        "aliases": [
+            "problem solving",
+            "problemsolving",
+            "problem-solving"
+        ],
+        "category": "Soft"
+    },
+    "Customer Relationship Management": {
+        "aliases": [
+            "customer relationship management",
+            "customerrelationshipmanagement",
+            "customer-relationship-management"
+        ],
+        "category": "Technical"
+    },
+    "Active Directory": {
+        "aliases": [
+            "active directory",
+            "activedirectory",
+            "active-directory"
+        ],
+        "category": "Technical"
+    },
+    "Networking": {
+        "aliases": [
+            "networking",
+            "networking",
+            "networking"
+        ],
+        "category": "Technical"
+    },
+    "On-Page SEO": {
+        "aliases": [
+            "on-page seo",
+            "on-pageseo",
+            "on-page-seo"
+        ],
+        "category": "Technical"
+    },
+    "SEO": {
+        "aliases": [
+            "seo",
+            "seo",
+            "seo"
+        ],
+        "category": "Technical"
+    },
+    "Injury Prevention": {
+        "aliases": [
+            "injury prevention",
+            "injuryprevention",
+            "injury-prevention"
+        ],
+        "category": "Technical"
+    },
+    "Medical Knowledge": {
+        "aliases": [
+            "medical knowledge",
+            "medicalknowledge",
+            "medical-knowledge"
+        ],
+        "category": "Technical"
+    },
+    "EMR": {
+        "aliases": [
+            "emr",
+            "emr",
+            "emr"
+        ],
+        "category": "Technical"
+    },
+    "Forecasting": {
+        "aliases": [
+            "forecasting",
+            "forecasting",
+            "forecasting"
+        ],
+        "category": "Technical"
+    },
+    "Account Management": {
+        "aliases": [
+            "account management",
+            "accountmanagement",
+            "account-management"
+        ],
+        "category": "Technical"
+    },
+    "CI/CD": {
+        "aliases": [
+            "ci/cd",
+            "ci/cd",
+            "ci/cd"
+        ],
+        "category": "Technical"
+    },
+    "Strategic Planning": {
+        "aliases": [
+            "strategic planning",
+            "strategicplanning",
+            "strategic-planning"
+        ],
+        "category": "Technical"
+    },
+    "Critical Thinking": {
+        "aliases": [
+            "critical thinking",
+            "criticalthinking",
+            "critical-thinking"
+        ],
+        "category": "Technical"
+    },
+    "Cold Calling": {
+        "aliases": [
+            "cold calling",
+            "coldcalling",
+            "cold-calling"
+        ],
+        "category": "Technical"
+    },
+    "Pitch Books": {
+        "aliases": [
+            "pitch books",
+            "pitchbooks",
+            "pitch-books"
+        ],
+        "category": "Technical"
+    },
+    "Architecture": {
+        "aliases": [
+            "architecture",
+            "architecture",
+            "architecture"
+        ],
+        "category": "Technical"
+    },
+    "AutoCAD": {
+        "aliases": [
+            "autocad",
+            "autocad",
+            "autocad"
+        ],
+        "category": "Technical"
+    },
+    "Rehabilitation": {
+        "aliases": [
+            "rehabilitation",
+            "rehabilitation",
+            "rehabilitation"
+        ],
+        "category": "Technical"
+    },
+    "Logistics": {
+        "aliases": [
+            "logistics",
+            "logistics",
+            "logistics"
+        ],
+        "category": "Technical"
+    },
+    "Usability Testing": {
+        "aliases": [
+            "usability testing",
+            "usabilitytesting",
+            "usability-testing"
+        ],
+        "category": "Technical"
+    },
+    "Phlebotomy": {
+        "aliases": [
+            "phlebotomy",
+            "phlebotomy",
+            "phlebotomy"
+        ],
+        "category": "Technical"
+    },
+    "Auditing": {
+        "aliases": [
+            "auditing",
+            "auditing",
+            "auditing"
+        ],
+        "category": "Technical"
+    },
+    "Electronics": {
+        "aliases": [
+            "electronics",
+            "electronics",
+            "electronics"
+        ],
+        "category": "Technical"
+    },
+    "Azure": {
+        "aliases": [
+            "azure",
+            "azure",
+            "azure"
+        ],
+        "category": "Technical"
+    },
+    "Empathy": {
+        "aliases": [
+            "empathy",
+            "empathy",
+            "empathy"
+        ],
+        "category": "Soft"
+    }
+}

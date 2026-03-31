@@ -1,0 +1,5382 @@
+[
+    {
+        "job_id": "PI-1000",
+        "job_title": "Software Developer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Algorithms",
+            "Java",
+            "Python",
+            "API Design",
+            "Docker",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "JavaScript",
+            "Communication",
+            "SQL",
+            "React",
+            "Node.js"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "software developer",
+            "javascript",
+            "react",
+            "node.js",
+            "api design",
+            "docker",
+            "algorithms"
+        ]
+    },
+    {
+        "job_id": "PI-1001",
+        "job_title": "Senior Software Developer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Algorithms",
+            "Java",
+            "API Design",
+            "Python",
+            "Strategy",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "JavaScript",
+            "Communication",
+            "SQL",
+            "Architecture",
+            "Mentoring",
+            "React",
+            "Node.js",
+            "Docker",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "software developer",
+            "javascript",
+            "react",
+            "node.js",
+            "api design",
+            "docker",
+            "algorithms"
+        ]
+    },
+    {
+        "job_id": "PI-1002",
+        "job_title": "Lead Software Developer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Budgeting",
+            "Algorithms",
+            "Java",
+            "API Design",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "JavaScript",
+            "Communication",
+            "SQL",
+            "Cross-functional Leadership",
+            "React",
+            "Node.js",
+            "Docker",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "software developer",
+            "javascript",
+            "react",
+            "node.js",
+            "api design",
+            "docker",
+            "algorithms"
+        ]
+    },
+    {
+        "job_id": "PI-1003",
+        "job_title": "Junior Software Developer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Algorithms",
+            "Java",
+            "Python",
+            "API Design",
+            "Docker",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "JavaScript",
+            "Communication",
+            "SQL",
+            "React",
+            "Node.js"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "software developer",
+            "javascript",
+            "react",
+            "node.js",
+            "api design",
+            "docker",
+            "algorithms"
+        ]
+    },
+    {
+        "job_id": "PI-1004",
+        "job_title": "Data Scientist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Java",
+            "Python",
+            "Machine Learning",
+            "Git",
+            "R",
+            "Problem Solving",
+            "Agile",
+            "Statistics",
+            "Communication",
+            "SQL",
+            "Data Visualization",
+            "Pandas",
+            "TensorFlow"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "data scientist",
+            "machine learning",
+            "statistics",
+            "pandas",
+            "tensorflow",
+            "data visualization",
+            "r"
+        ]
+    },
+    {
+        "job_id": "PI-1005",
+        "job_title": "Senior Data Scientist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Java",
+            "Python",
+            "Machine Learning",
+            "Strategy",
+            "Git",
+            "R",
+            "Problem Solving",
+            "Agile",
+            "Statistics",
+            "Communication",
+            "SQL",
+            "Data Visualization",
+            "Mentoring",
+            "Pandas",
+            "Architecture",
+            "Leadership",
+            "TensorFlow"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "data scientist",
+            "machine learning",
+            "statistics",
+            "pandas",
+            "tensorflow",
+            "data visualization",
+            "r"
+        ]
+    },
+    {
+        "job_id": "PI-1006",
+        "job_title": "Lead Data Scientist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Budgeting",
+            "Java",
+            "Python",
+            "Machine Learning",
+            "Git",
+            "R",
+            "Problem Solving",
+            "Agile",
+            "Statistics",
+            "Communication",
+            "SQL",
+            "Data Visualization",
+            "Cross-functional Leadership",
+            "Pandas",
+            "Team Management",
+            "TensorFlow"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "data scientist",
+            "machine learning",
+            "statistics",
+            "pandas",
+            "tensorflow",
+            "data visualization",
+            "r"
+        ]
+    },
+    {
+        "job_id": "PI-1007",
+        "job_title": "Junior Data Scientist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Java",
+            "Python",
+            "Machine Learning",
+            "Git",
+            "R",
+            "Problem Solving",
+            "Agile",
+            "Statistics",
+            "Communication",
+            "SQL",
+            "Data Visualization",
+            "Pandas",
+            "TensorFlow"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "data scientist",
+            "machine learning",
+            "statistics",
+            "pandas",
+            "tensorflow",
+            "data visualization",
+            "r"
+        ]
+    },
+    {
+        "job_id": "PI-1008",
+        "job_title": "Cloud Architect",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Java",
+            "Python",
+            "Terraform",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Communication",
+            "SQL",
+            "Azure",
+            "Kubernetes",
+            "Linux",
+            "AWS",
+            "Networking"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "cloud architect",
+            "aws",
+            "azure",
+            "kubernetes",
+            "terraform",
+            "linux",
+            "networking"
+        ]
+    },
+    {
+        "job_id": "PI-1009",
+        "job_title": "Senior Cloud Architect",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Java",
+            "Python",
+            "Strategy",
+            "Terraform",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Communication",
+            "SQL",
+            "Azure",
+            "Kubernetes",
+            "Mentoring",
+            "Architecture",
+            "Linux",
+            "AWS",
+            "Networking",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "cloud architect",
+            "aws",
+            "azure",
+            "kubernetes",
+            "terraform",
+            "linux",
+            "networking"
+        ]
+    },
+    {
+        "job_id": "PI-1010",
+        "job_title": "Lead Cloud Architect",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Budgeting",
+            "Java",
+            "Python",
+            "Terraform",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Communication",
+            "SQL",
+            "Azure",
+            "Kubernetes",
+            "Cross-functional Leadership",
+            "Linux",
+            "AWS",
+            "Networking",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "cloud architect",
+            "aws",
+            "azure",
+            "kubernetes",
+            "terraform",
+            "linux",
+            "networking"
+        ]
+    },
+    {
+        "job_id": "PI-1011",
+        "job_title": "Junior Cloud Architect",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Java",
+            "Python",
+            "Terraform",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Communication",
+            "SQL",
+            "Azure",
+            "Kubernetes",
+            "Linux",
+            "AWS",
+            "Networking"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "cloud architect",
+            "aws",
+            "azure",
+            "kubernetes",
+            "terraform",
+            "linux",
+            "networking"
+        ]
+    },
+    {
+        "job_id": "PI-1012",
+        "job_title": "Frontend Engineer",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "HTML",
+            "CSS",
+            "Communication",
+            "SQL",
+            "Vue",
+            "Typescript",
+            "React",
+            "UI/UX",
+            "Webpack"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "frontend engineer",
+            "html",
+            "css",
+            "react",
+            "vue",
+            "typescript",
+            "ui/ux",
+            "webpack"
+        ]
+    },
+    {
+        "job_id": "PI-1013",
+        "job_title": "Senior Frontend Engineer",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Java",
+            "Python",
+            "Strategy",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "HTML",
+            "CSS",
+            "Communication",
+            "SQL",
+            "Vue",
+            "Typescript",
+            "Mentoring",
+            "React",
+            "UI/UX",
+            "Architecture",
+            "Leadership",
+            "Webpack"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "frontend engineer",
+            "html",
+            "css",
+            "react",
+            "vue",
+            "typescript",
+            "ui/ux",
+            "webpack"
+        ]
+    },
+    {
+        "job_id": "PI-1014",
+        "job_title": "Lead Frontend Engineer",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Budgeting",
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "HTML",
+            "CSS",
+            "Communication",
+            "SQL",
+            "Vue",
+            "Typescript",
+            "Cross-functional Leadership",
+            "React",
+            "UI/UX",
+            "Team Management",
+            "Webpack"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "frontend engineer",
+            "html",
+            "css",
+            "react",
+            "vue",
+            "typescript",
+            "ui/ux",
+            "webpack"
+        ]
+    },
+    {
+        "job_id": "PI-1015",
+        "job_title": "Junior Frontend Engineer",
+        "category": "Technology",
+        "sub_category": "Software Engineering",
+        "skills": [
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "HTML",
+            "CSS",
+            "Communication",
+            "SQL",
+            "Vue",
+            "Typescript",
+            "React",
+            "UI/UX",
+            "Webpack"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "frontend engineer",
+            "html",
+            "css",
+            "react",
+            "vue",
+            "typescript",
+            "ui/ux",
+            "webpack"
+        ]
+    },
+    {
+        "job_id": "PI-1016",
+        "job_title": "Backend Engineer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Microservices",
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Django",
+            "Communication",
+            "SQL",
+            "PostgreSQL",
+            "FastAPI",
+            "Redis"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "backend engineer",
+            "python",
+            "django",
+            "fastapi",
+            "postgresql",
+            "redis",
+            "microservices"
+        ]
+    },
+    {
+        "job_id": "PI-1017",
+        "job_title": "Senior Backend Engineer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Microservices",
+            "Java",
+            "Python",
+            "Strategy",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Django",
+            "Communication",
+            "SQL",
+            "PostgreSQL",
+            "FastAPI",
+            "Mentoring",
+            "Redis",
+            "Architecture",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "backend engineer",
+            "python",
+            "django",
+            "fastapi",
+            "postgresql",
+            "redis",
+            "microservices"
+        ]
+    },
+    {
+        "job_id": "PI-1018",
+        "job_title": "Lead Backend Engineer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Budgeting",
+            "Microservices",
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Django",
+            "Communication",
+            "SQL",
+            "PostgreSQL",
+            "Cross-functional Leadership",
+            "FastAPI",
+            "Redis",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "backend engineer",
+            "python",
+            "django",
+            "fastapi",
+            "postgresql",
+            "redis",
+            "microservices"
+        ]
+    },
+    {
+        "job_id": "PI-1019",
+        "job_title": "Junior Backend Engineer",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Microservices",
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Django",
+            "Communication",
+            "SQL",
+            "PostgreSQL",
+            "FastAPI",
+            "Redis"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "backend engineer",
+            "python",
+            "django",
+            "fastapi",
+            "postgresql",
+            "redis",
+            "microservices"
+        ]
+    },
+    {
+        "job_id": "PI-1020",
+        "job_title": "Cybersecurity Analyst",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Java",
+            "Python",
+            "Firewalls",
+            "Incident Response",
+            "Git",
+            "Network Security",
+            "Problem Solving",
+            "Agile",
+            "SIEM",
+            "Penetration Testing",
+            "Communication",
+            "SQL",
+            "Linux"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "cybersecurity analyst",
+            "siem",
+            "penetration testing",
+            "network security",
+            "linux",
+            "firewalls",
+            "incident response"
+        ]
+    },
+    {
+        "job_id": "PI-1021",
+        "job_title": "Senior Cybersecurity Analyst",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Java",
+            "Firewalls",
+            "Python",
+            "Incident Response",
+            "Strategy",
+            "Git",
+            "Network Security",
+            "Problem Solving",
+            "Agile",
+            "SIEM",
+            "Penetration Testing",
+            "Communication",
+            "SQL",
+            "Mentoring",
+            "Linux",
+            "Architecture",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "cybersecurity analyst",
+            "siem",
+            "penetration testing",
+            "network security",
+            "linux",
+            "firewalls",
+            "incident response"
+        ]
+    },
+    {
+        "job_id": "PI-1022",
+        "job_title": "Lead Cybersecurity Analyst",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Budgeting",
+            "Java",
+            "Firewalls",
+            "Python",
+            "Incident Response",
+            "Git",
+            "Network Security",
+            "Problem Solving",
+            "Agile",
+            "SIEM",
+            "Penetration Testing",
+            "Communication",
+            "SQL",
+            "Cross-functional Leadership",
+            "Linux",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "cybersecurity analyst",
+            "siem",
+            "penetration testing",
+            "network security",
+            "linux",
+            "firewalls",
+            "incident response"
+        ]
+    },
+    {
+        "job_id": "PI-1023",
+        "job_title": "Junior Cybersecurity Analyst",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Java",
+            "Python",
+            "Firewalls",
+            "Incident Response",
+            "Git",
+            "Network Security",
+            "Problem Solving",
+            "Agile",
+            "SIEM",
+            "Penetration Testing",
+            "Communication",
+            "SQL",
+            "Linux"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "cybersecurity analyst",
+            "siem",
+            "penetration testing",
+            "network security",
+            "linux",
+            "firewalls",
+            "incident response"
+        ]
+    },
+    {
+        "job_id": "PI-1024",
+        "job_title": "DevOps Engineer",
+        "category": "Technology",
+        "sub_category": "Cybersecurity",
+        "skills": [
+            "Java",
+            "Python",
+            "Jenkins",
+            "Ansible",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "CI/CD",
+            "Bash",
+            "Communication",
+            "SQL",
+            "Kubernetes",
+            "AWS",
+            "Docker"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "devops engineer",
+            "ci/cd",
+            "jenkins",
+            "ansible",
+            "docker",
+            "kubernetes",
+            "aws",
+            "bash"
+        ]
+    },
+    {
+        "job_id": "PI-1025",
+        "job_title": "Senior DevOps Engineer",
+        "category": "Technology",
+        "sub_category": "Cybersecurity",
+        "skills": [
+            "Ansible",
+            "Java",
+            "Python",
+            "Jenkins",
+            "Strategy",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "CI/CD",
+            "Bash",
+            "Communication",
+            "SQL",
+            "Kubernetes",
+            "Architecture",
+            "Mentoring",
+            "AWS",
+            "Docker",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "devops engineer",
+            "ci/cd",
+            "jenkins",
+            "ansible",
+            "docker",
+            "kubernetes",
+            "aws",
+            "bash"
+        ]
+    },
+    {
+        "job_id": "PI-1026",
+        "job_title": "Lead DevOps Engineer",
+        "category": "Technology",
+        "sub_category": "Cybersecurity",
+        "skills": [
+            "Budgeting",
+            "Ansible",
+            "Java",
+            "Python",
+            "Jenkins",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "CI/CD",
+            "Bash",
+            "Communication",
+            "SQL",
+            "Kubernetes",
+            "Cross-functional Leadership",
+            "AWS",
+            "Docker",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "devops engineer",
+            "ci/cd",
+            "jenkins",
+            "ansible",
+            "docker",
+            "kubernetes",
+            "aws",
+            "bash"
+        ]
+    },
+    {
+        "job_id": "PI-1027",
+        "job_title": "Junior DevOps Engineer",
+        "category": "Technology",
+        "sub_category": "Cybersecurity",
+        "skills": [
+            "Java",
+            "Python",
+            "Jenkins",
+            "Ansible",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "CI/CD",
+            "Bash",
+            "Communication",
+            "SQL",
+            "Kubernetes",
+            "AWS",
+            "Docker"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "devops engineer",
+            "ci/cd",
+            "jenkins",
+            "ansible",
+            "docker",
+            "kubernetes",
+            "aws",
+            "bash"
+        ]
+    },
+    {
+        "job_id": "PI-1028",
+        "job_title": "IT Support Specialist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Customer Service",
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Windows Server",
+            "Communication",
+            "SQL",
+            "Troubleshooting",
+            "Hardware",
+            "Active Directory",
+            "Networking"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "it support specialist",
+            "windows server",
+            "active directory",
+            "troubleshooting",
+            "hardware",
+            "networking",
+            "customer service"
+        ]
+    },
+    {
+        "job_id": "PI-1029",
+        "job_title": "Senior IT Support Specialist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Customer Service",
+            "Java",
+            "Python",
+            "Strategy",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Windows Server",
+            "Communication",
+            "SQL",
+            "Architecture",
+            "Mentoring",
+            "Troubleshooting",
+            "Hardware",
+            "Active Directory",
+            "Networking",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "it support specialist",
+            "windows server",
+            "active directory",
+            "troubleshooting",
+            "hardware",
+            "networking",
+            "customer service"
+        ]
+    },
+    {
+        "job_id": "PI-1030",
+        "job_title": "Lead IT Support Specialist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Budgeting",
+            "Customer Service",
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Windows Server",
+            "Communication",
+            "SQL",
+            "Cross-functional Leadership",
+            "Troubleshooting",
+            "Hardware",
+            "Active Directory",
+            "Networking",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "it support specialist",
+            "windows server",
+            "active directory",
+            "troubleshooting",
+            "hardware",
+            "networking",
+            "customer service"
+        ]
+    },
+    {
+        "job_id": "PI-1031",
+        "job_title": "Junior IT Support Specialist",
+        "category": "Technology",
+        "sub_category": "Data Science",
+        "skills": [
+            "Customer Service",
+            "Java",
+            "Python",
+            "Git",
+            "Problem Solving",
+            "Agile",
+            "Windows Server",
+            "Communication",
+            "SQL",
+            "Troubleshooting",
+            "Hardware",
+            "Active Directory",
+            "Networking"
+        ],
+        "soft_skills": [
+            "Problem Solving",
+            "Communication"
+        ],
+        "tools": [
+            "Jira",
+            "VS Code",
+            "Slack"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "it support specialist",
+            "windows server",
+            "active directory",
+            "troubleshooting",
+            "hardware",
+            "networking",
+            "customer service"
+        ]
+    },
+    {
+        "job_id": "PI-1032",
+        "job_title": "Registered Nurse",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Medication Administration",
+            "Medical Knowledge",
+            "CPR",
+            "Patient Assessment",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Vitals Monitoring",
+            "Empathy"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "registered nurse",
+            "vitals monitoring",
+            "medication administration",
+            "cpr",
+            "patient assessment"
+        ]
+    },
+    {
+        "job_id": "PI-1033",
+        "job_title": "Senior Registered Nurse",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Medication Administration",
+            "CPR",
+            "Patient Assessment",
+            "Medical Knowledge",
+            "Strategy",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Vitals Monitoring",
+            "Mentoring",
+            "Architecture",
+            "Empathy",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "registered nurse",
+            "vitals monitoring",
+            "medication administration",
+            "cpr",
+            "patient assessment"
+        ]
+    },
+    {
+        "job_id": "PI-1034",
+        "job_title": "Lead Registered Nurse",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Medication Administration",
+            "Budgeting",
+            "CPR",
+            "Patient Assessment",
+            "Medical Knowledge",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Vitals Monitoring",
+            "Cross-functional Leadership",
+            "Empathy",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "registered nurse",
+            "vitals monitoring",
+            "medication administration",
+            "cpr",
+            "patient assessment"
+        ]
+    },
+    {
+        "job_id": "PI-1035",
+        "job_title": "Junior Registered Nurse",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Medication Administration",
+            "Medical Knowledge",
+            "CPR",
+            "Patient Assessment",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Vitals Monitoring",
+            "Empathy"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "registered nurse",
+            "vitals monitoring",
+            "medication administration",
+            "cpr",
+            "patient assessment"
+        ]
+    },
+    {
+        "job_id": "PI-1036",
+        "job_title": "Medical Assistant",
+        "category": "Healthcare",
+        "sub_category": "Medicine",
+        "skills": [
+            "Scheduling",
+            "Medical Knowledge",
+            "EMR",
+            "Patient Care",
+            "Phlebotomy",
+            "Communication",
+            "Critical Thinking",
+            "Empathy",
+            "Triage"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "medical assistant",
+            "phlebotomy",
+            "scheduling",
+            "triage",
+            "emr"
+        ]
+    },
+    {
+        "job_id": "PI-1037",
+        "job_title": "Senior Medical Assistant",
+        "category": "Healthcare",
+        "sub_category": "Medicine",
+        "skills": [
+            "Scheduling",
+            "EMR",
+            "Medical Knowledge",
+            "Strategy",
+            "Phlebotomy",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Architecture",
+            "Mentoring",
+            "Empathy",
+            "Leadership",
+            "Triage"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "medical assistant",
+            "phlebotomy",
+            "scheduling",
+            "triage",
+            "emr"
+        ]
+    },
+    {
+        "job_id": "PI-1038",
+        "job_title": "Lead Medical Assistant",
+        "category": "Healthcare",
+        "sub_category": "Medicine",
+        "skills": [
+            "Budgeting",
+            "Scheduling",
+            "EMR",
+            "Medical Knowledge",
+            "Phlebotomy",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Cross-functional Leadership",
+            "Empathy",
+            "Team Management",
+            "Triage"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "medical assistant",
+            "phlebotomy",
+            "scheduling",
+            "triage",
+            "emr"
+        ]
+    },
+    {
+        "job_id": "PI-1039",
+        "job_title": "Junior Medical Assistant",
+        "category": "Healthcare",
+        "sub_category": "Medicine",
+        "skills": [
+            "Scheduling",
+            "Medical Knowledge",
+            "EMR",
+            "Patient Care",
+            "Phlebotomy",
+            "Communication",
+            "Critical Thinking",
+            "Empathy",
+            "Triage"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "medical assistant",
+            "phlebotomy",
+            "scheduling",
+            "triage",
+            "emr"
+        ]
+    },
+    {
+        "job_id": "PI-1040",
+        "job_title": "Physician",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Treatment Planning",
+            "Medical Knowledge",
+            "Pharmacology",
+            "Anatomy",
+            "Surgery",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Empathy",
+            "Diagnosis"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "physician",
+            "diagnosis",
+            "treatment planning",
+            "surgery",
+            "pharmacology",
+            "anatomy"
+        ]
+    },
+    {
+        "job_id": "PI-1041",
+        "job_title": "Senior Physician",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Treatment Planning",
+            "Medical Knowledge",
+            "Pharmacology",
+            "Anatomy",
+            "Strategy",
+            "Surgery",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Architecture",
+            "Mentoring",
+            "Empathy",
+            "Leadership",
+            "Diagnosis"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "physician",
+            "diagnosis",
+            "treatment planning",
+            "surgery",
+            "pharmacology",
+            "anatomy"
+        ]
+    },
+    {
+        "job_id": "PI-1042",
+        "job_title": "Lead Physician",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Budgeting",
+            "Treatment Planning",
+            "Medical Knowledge",
+            "Pharmacology",
+            "Anatomy",
+            "Surgery",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Cross-functional Leadership",
+            "Empathy",
+            "Team Management",
+            "Diagnosis"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "physician",
+            "diagnosis",
+            "treatment planning",
+            "surgery",
+            "pharmacology",
+            "anatomy"
+        ]
+    },
+    {
+        "job_id": "PI-1043",
+        "job_title": "Junior Physician",
+        "category": "Healthcare",
+        "sub_category": "Nursing",
+        "skills": [
+            "Treatment Planning",
+            "Medical Knowledge",
+            "Pharmacology",
+            "Anatomy",
+            "Surgery",
+            "Patient Care",
+            "Communication",
+            "Critical Thinking",
+            "Empathy",
+            "Diagnosis"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "physician",
+            "diagnosis",
+            "treatment planning",
+            "surgery",
+            "pharmacology",
+            "anatomy"
+        ]
+    },
+    {
+        "job_id": "PI-1044",
+        "job_title": "Healthcare Administrator",
+        "category": "Healthcare",
+        "sub_category": "Therapy",
+        "skills": [
+            "Budgeting",
+            "Medical Knowledge",
+            "Patient Care",
+            "Compliance",
+            "Communication",
+            "Operations Management",
+            "Critical Thinking",
+            "Medical Billing",
+            "Empathy"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "healthcare administrator",
+            "budgeting",
+            "compliance",
+            "operations management",
+            "medical billing"
+        ]
+    },
+    {
+        "job_id": "PI-1045",
+        "job_title": "Senior Healthcare Administrator",
+        "category": "Healthcare",
+        "sub_category": "Therapy",
+        "skills": [
+            "Budgeting",
+            "Medical Knowledge",
+            "Strategy",
+            "Patient Care",
+            "Compliance",
+            "Communication",
+            "Operations Management",
+            "Critical Thinking",
+            "Architecture",
+            "Mentoring",
+            "Medical Billing",
+            "Empathy",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "healthcare administrator",
+            "budgeting",
+            "compliance",
+            "operations management",
+            "medical billing"
+        ]
+    },
+    {
+        "job_id": "PI-1046",
+        "job_title": "Lead Healthcare Administrator",
+        "category": "Healthcare",
+        "sub_category": "Therapy",
+        "skills": [
+            "Budgeting",
+            "Medical Knowledge",
+            "Patient Care",
+            "Compliance",
+            "Communication",
+            "Operations Management",
+            "Critical Thinking",
+            "Cross-functional Leadership",
+            "Medical Billing",
+            "Empathy",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "healthcare administrator",
+            "budgeting",
+            "compliance",
+            "operations management",
+            "medical billing"
+        ]
+    },
+    {
+        "job_id": "PI-1047",
+        "job_title": "Junior Healthcare Administrator",
+        "category": "Healthcare",
+        "sub_category": "Therapy",
+        "skills": [
+            "Budgeting",
+            "Medical Knowledge",
+            "Patient Care",
+            "Compliance",
+            "Communication",
+            "Operations Management",
+            "Critical Thinking",
+            "Medical Billing",
+            "Empathy"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "healthcare administrator",
+            "budgeting",
+            "compliance",
+            "operations management",
+            "medical billing"
+        ]
+    },
+    {
+        "job_id": "PI-1048",
+        "job_title": "Physical Therapist",
+        "category": "Healthcare",
+        "sub_category": "Administration",
+        "skills": [
+            "Rehabilitation",
+            "Medical Knowledge",
+            "Patient Care",
+            "Exercise Prescription",
+            "Communication",
+            "Critical Thinking",
+            "Kinesiology",
+            "Empathy",
+            "Injury Prevention"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "physical therapist",
+            "rehabilitation",
+            "kinesiology",
+            "exercise prescription",
+            "injury prevention"
+        ]
+    },
+    {
+        "job_id": "PI-1049",
+        "job_title": "Senior Physical Therapist",
+        "category": "Healthcare",
+        "sub_category": "Administration",
+        "skills": [
+            "Rehabilitation",
+            "Medical Knowledge",
+            "Strategy",
+            "Patient Care",
+            "Exercise Prescription",
+            "Communication",
+            "Critical Thinking",
+            "Architecture",
+            "Mentoring",
+            "Kinesiology",
+            "Empathy",
+            "Leadership",
+            "Injury Prevention"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "physical therapist",
+            "rehabilitation",
+            "kinesiology",
+            "exercise prescription",
+            "injury prevention"
+        ]
+    },
+    {
+        "job_id": "PI-1050",
+        "job_title": "Lead Physical Therapist",
+        "category": "Healthcare",
+        "sub_category": "Administration",
+        "skills": [
+            "Budgeting",
+            "Rehabilitation",
+            "Medical Knowledge",
+            "Patient Care",
+            "Exercise Prescription",
+            "Communication",
+            "Critical Thinking",
+            "Cross-functional Leadership",
+            "Kinesiology",
+            "Empathy",
+            "Team Management",
+            "Injury Prevention"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "physical therapist",
+            "rehabilitation",
+            "kinesiology",
+            "exercise prescription",
+            "injury prevention"
+        ]
+    },
+    {
+        "job_id": "PI-1051",
+        "job_title": "Junior Physical Therapist",
+        "category": "Healthcare",
+        "sub_category": "Administration",
+        "skills": [
+            "Rehabilitation",
+            "Medical Knowledge",
+            "Patient Care",
+            "Exercise Prescription",
+            "Communication",
+            "Critical Thinking",
+            "Kinesiology",
+            "Empathy",
+            "Injury Prevention"
+        ],
+        "soft_skills": [
+            "Empathy",
+            "Communication",
+            "Critical Thinking"
+        ],
+        "tools": [
+            "EHR Software",
+            "Medical Equipment"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "physical therapist",
+            "rehabilitation",
+            "kinesiology",
+            "exercise prescription",
+            "injury prevention"
+        ]
+    },
+    {
+        "job_id": "PI-1052",
+        "job_title": "Accountant",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "QuickBooks",
+            "Financial Reporting",
+            "Mathematics",
+            "Auditing",
+            "Communication",
+            "Taxation",
+            "Attention to Detail",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "GAAP"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "accountant",
+            "financial reporting",
+            "taxation",
+            "auditing",
+            "quickbooks",
+            "gaap"
+        ]
+    },
+    {
+        "job_id": "PI-1053",
+        "job_title": "Senior Accountant",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "QuickBooks",
+            "Financial Reporting",
+            "Strategy",
+            "Mathematics",
+            "Auditing",
+            "Communication",
+            "Taxation",
+            "Attention to Detail",
+            "Mentoring",
+            "Microsoft Excel",
+            "Architecture",
+            "Analytical Skills",
+            "Leadership",
+            "GAAP"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "accountant",
+            "financial reporting",
+            "taxation",
+            "auditing",
+            "quickbooks",
+            "gaap"
+        ]
+    },
+    {
+        "job_id": "PI-1054",
+        "job_title": "Lead Accountant",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "QuickBooks",
+            "Financial Reporting",
+            "Budgeting",
+            "Mathematics",
+            "Auditing",
+            "Communication",
+            "Taxation",
+            "Attention to Detail",
+            "Cross-functional Leadership",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "Team Management",
+            "GAAP"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "accountant",
+            "financial reporting",
+            "taxation",
+            "auditing",
+            "quickbooks",
+            "gaap"
+        ]
+    },
+    {
+        "job_id": "PI-1055",
+        "job_title": "Junior Accountant",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "QuickBooks",
+            "Financial Reporting",
+            "Mathematics",
+            "Auditing",
+            "Communication",
+            "Taxation",
+            "Attention to Detail",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "GAAP"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "accountant",
+            "financial reporting",
+            "taxation",
+            "auditing",
+            "quickbooks",
+            "gaap"
+        ]
+    },
+    {
+        "job_id": "PI-1056",
+        "job_title": "Financial Analyst",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Forecasting",
+            "Mathematics",
+            "Corporate Finance",
+            "Communication",
+            "Attention to Detail",
+            "Financial Modeling",
+            "Valuation",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "financial analyst",
+            "financial modeling",
+            "forecasting",
+            "valuation",
+            "corporate finance",
+            "data analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1057",
+        "job_title": "Senior Financial Analyst",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Strategy",
+            "Forecasting",
+            "Mathematics",
+            "Corporate Finance",
+            "Communication",
+            "Attention to Detail",
+            "Financial Modeling",
+            "Valuation",
+            "Mentoring",
+            "Microsoft Excel",
+            "Architecture",
+            "Analytical Skills",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "financial analyst",
+            "financial modeling",
+            "forecasting",
+            "valuation",
+            "corporate finance",
+            "data analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1058",
+        "job_title": "Lead Financial Analyst",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Budgeting",
+            "Forecasting",
+            "Mathematics",
+            "Corporate Finance",
+            "Communication",
+            "Attention to Detail",
+            "Financial Modeling",
+            "Valuation",
+            "Cross-functional Leadership",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "Team Management",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "financial analyst",
+            "financial modeling",
+            "forecasting",
+            "valuation",
+            "corporate finance",
+            "data analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1059",
+        "job_title": "Junior Financial Analyst",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Forecasting",
+            "Mathematics",
+            "Corporate Finance",
+            "Communication",
+            "Attention to Detail",
+            "Financial Modeling",
+            "Valuation",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "financial analyst",
+            "financial modeling",
+            "forecasting",
+            "valuation",
+            "corporate finance",
+            "data analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1060",
+        "job_title": "Investment Banker",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "M&A",
+            "Mathematics",
+            "Communication",
+            "Capital Markets",
+            "Attention to Detail",
+            "Due Diligence",
+            "Pitch Books",
+            "Microsoft Excel",
+            "Analytical Skills"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "investment banker",
+            "m&a",
+            "capital markets",
+            "pitch books",
+            "due diligence"
+        ]
+    },
+    {
+        "job_id": "PI-1061",
+        "job_title": "Senior Investment Banker",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "M&A",
+            "Strategy",
+            "Mathematics",
+            "Communication",
+            "Capital Markets",
+            "Attention to Detail",
+            "Mentoring",
+            "Due Diligence",
+            "Pitch Books",
+            "Microsoft Excel",
+            "Architecture",
+            "Analytical Skills",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "investment banker",
+            "m&a",
+            "capital markets",
+            "pitch books",
+            "due diligence"
+        ]
+    },
+    {
+        "job_id": "PI-1062",
+        "job_title": "Lead Investment Banker",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "Budgeting",
+            "M&A",
+            "Mathematics",
+            "Communication",
+            "Capital Markets",
+            "Attention to Detail",
+            "Cross-functional Leadership",
+            "Due Diligence",
+            "Pitch Books",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "investment banker",
+            "m&a",
+            "capital markets",
+            "pitch books",
+            "due diligence"
+        ]
+    },
+    {
+        "job_id": "PI-1063",
+        "job_title": "Junior Investment Banker",
+        "category": "Finance",
+        "sub_category": "Investment Banking",
+        "skills": [
+            "M&A",
+            "Mathematics",
+            "Communication",
+            "Capital Markets",
+            "Attention to Detail",
+            "Due Diligence",
+            "Pitch Books",
+            "Microsoft Excel",
+            "Analytical Skills"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "investment banker",
+            "m&a",
+            "capital markets",
+            "pitch books",
+            "due diligence"
+        ]
+    },
+    {
+        "job_id": "PI-1064",
+        "job_title": "Financial Advisor",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Wealth Management",
+            "Retirement Planning",
+            "Sales",
+            "Mathematics",
+            "Communication",
+            "Portfolio Management",
+            "Attention to Detail",
+            "Microsoft Excel",
+            "Analytical Skills"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "financial advisor",
+            "wealth management",
+            "retirement planning",
+            "portfolio management",
+            "sales"
+        ]
+    },
+    {
+        "job_id": "PI-1065",
+        "job_title": "Senior Financial Advisor",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Wealth Management",
+            "Retirement Planning",
+            "Strategy",
+            "Sales",
+            "Mathematics",
+            "Communication",
+            "Portfolio Management",
+            "Attention to Detail",
+            "Mentoring",
+            "Microsoft Excel",
+            "Architecture",
+            "Analytical Skills",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "financial advisor",
+            "wealth management",
+            "retirement planning",
+            "portfolio management",
+            "sales"
+        ]
+    },
+    {
+        "job_id": "PI-1066",
+        "job_title": "Lead Financial Advisor",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Budgeting",
+            "Wealth Management",
+            "Retirement Planning",
+            "Sales",
+            "Mathematics",
+            "Communication",
+            "Portfolio Management",
+            "Attention to Detail",
+            "Cross-functional Leadership",
+            "Microsoft Excel",
+            "Analytical Skills",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "financial advisor",
+            "wealth management",
+            "retirement planning",
+            "portfolio management",
+            "sales"
+        ]
+    },
+    {
+        "job_id": "PI-1067",
+        "job_title": "Junior Financial Advisor",
+        "category": "Finance",
+        "sub_category": "Accounting",
+        "skills": [
+            "Wealth Management",
+            "Retirement Planning",
+            "Sales",
+            "Mathematics",
+            "Communication",
+            "Portfolio Management",
+            "Attention to Detail",
+            "Microsoft Excel",
+            "Analytical Skills"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Bloomberg Terminal",
+            "Excel",
+            "SAP"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "financial advisor",
+            "wealth management",
+            "retirement planning",
+            "portfolio management",
+            "sales"
+        ]
+    },
+    {
+        "job_id": "PI-1068",
+        "job_title": "Project Manager",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Budgeting",
+            "Scrum",
+            "Problem Solving",
+            "Strategic Planning",
+            "Agile",
+            "Stakeholder Management",
+            "Communication",
+            "Risk Management",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "project manager",
+            "agile",
+            "scrum",
+            "risk management",
+            "budgeting",
+            "stakeholder management"
+        ]
+    },
+    {
+        "job_id": "PI-1069",
+        "job_title": "Senior Project Manager",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Budgeting",
+            "Strategy",
+            "Scrum",
+            "Problem Solving",
+            "Strategic Planning",
+            "Agile",
+            "Stakeholder Management",
+            "Communication",
+            "Risk Management",
+            "Mentoring",
+            "Architecture",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "project manager",
+            "agile",
+            "scrum",
+            "risk management",
+            "budgeting",
+            "stakeholder management"
+        ]
+    },
+    {
+        "job_id": "PI-1070",
+        "job_title": "Lead Project Manager",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Budgeting",
+            "Scrum",
+            "Problem Solving",
+            "Strategic Planning",
+            "Agile",
+            "Stakeholder Management",
+            "Communication",
+            "Team Management",
+            "Cross-functional Leadership",
+            "Risk Management",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "project manager",
+            "agile",
+            "scrum",
+            "risk management",
+            "budgeting",
+            "stakeholder management"
+        ]
+    },
+    {
+        "job_id": "PI-1071",
+        "job_title": "Junior Project Manager",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Budgeting",
+            "Scrum",
+            "Problem Solving",
+            "Strategic Planning",
+            "Agile",
+            "Stakeholder Management",
+            "Communication",
+            "Risk Management",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "project manager",
+            "agile",
+            "scrum",
+            "risk management",
+            "budgeting",
+            "stakeholder management"
+        ]
+    },
+    {
+        "job_id": "PI-1072",
+        "job_title": "Business Analyst",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Problem Solving",
+            "Strategic Planning",
+            "Requirements Gathering",
+            "Process Modeling",
+            "Communication",
+            "SQL",
+            "Tableau",
+            "Time Management",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "business analyst",
+            "requirements gathering",
+            "process modeling",
+            "data analysis",
+            "sql",
+            "tableau"
+        ]
+    },
+    {
+        "job_id": "PI-1073",
+        "job_title": "Senior Business Analyst",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Strategy",
+            "Problem Solving",
+            "Strategic Planning",
+            "Requirements Gathering",
+            "Process Modeling",
+            "Communication",
+            "SQL",
+            "Mentoring",
+            "Tableau",
+            "Architecture",
+            "Time Management",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "business analyst",
+            "requirements gathering",
+            "process modeling",
+            "data analysis",
+            "sql",
+            "tableau"
+        ]
+    },
+    {
+        "job_id": "PI-1074",
+        "job_title": "Lead Business Analyst",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Budgeting",
+            "Team Management",
+            "Problem Solving",
+            "Strategic Planning",
+            "Requirements Gathering",
+            "Process Modeling",
+            "Communication",
+            "SQL",
+            "Cross-functional Leadership",
+            "Tableau",
+            "Time Management",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "business analyst",
+            "requirements gathering",
+            "process modeling",
+            "data analysis",
+            "sql",
+            "tableau"
+        ]
+    },
+    {
+        "job_id": "PI-1075",
+        "job_title": "Junior Business Analyst",
+        "category": "Business & Management",
+        "sub_category": "Consulting",
+        "skills": [
+            "Problem Solving",
+            "Strategic Planning",
+            "Requirements Gathering",
+            "Process Modeling",
+            "Communication",
+            "SQL",
+            "Tableau",
+            "Time Management",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "business analyst",
+            "requirements gathering",
+            "process modeling",
+            "data analysis",
+            "sql",
+            "tableau"
+        ]
+    },
+    {
+        "job_id": "PI-1076",
+        "job_title": "Operations Manager",
+        "category": "Business & Management",
+        "sub_category": "Project Management",
+        "skills": [
+            "Supply Chain",
+            "Logistics",
+            "Problem Solving",
+            "Strategic Planning",
+            "Six Sigma",
+            "Communication",
+            "Process Improvement",
+            "Vendor Management",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "operations manager",
+            "supply chain",
+            "logistics",
+            "process improvement",
+            "six sigma",
+            "vendor management"
+        ]
+    },
+    {
+        "job_id": "PI-1077",
+        "job_title": "Senior Operations Manager",
+        "category": "Business & Management",
+        "sub_category": "Project Management",
+        "skills": [
+            "Supply Chain",
+            "Strategy",
+            "Logistics",
+            "Problem Solving",
+            "Strategic Planning",
+            "Six Sigma",
+            "Communication",
+            "Process Improvement",
+            "Mentoring",
+            "Vendor Management",
+            "Architecture",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "operations manager",
+            "supply chain",
+            "logistics",
+            "process improvement",
+            "six sigma",
+            "vendor management"
+        ]
+    },
+    {
+        "job_id": "PI-1078",
+        "job_title": "Lead Operations Manager",
+        "category": "Business & Management",
+        "sub_category": "Project Management",
+        "skills": [
+            "Budgeting",
+            "Supply Chain",
+            "Logistics",
+            "Team Management",
+            "Problem Solving",
+            "Strategic Planning",
+            "Six Sigma",
+            "Communication",
+            "Cross-functional Leadership",
+            "Process Improvement",
+            "Vendor Management",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "operations manager",
+            "supply chain",
+            "logistics",
+            "process improvement",
+            "six sigma",
+            "vendor management"
+        ]
+    },
+    {
+        "job_id": "PI-1079",
+        "job_title": "Junior Operations Manager",
+        "category": "Business & Management",
+        "sub_category": "Project Management",
+        "skills": [
+            "Supply Chain",
+            "Logistics",
+            "Problem Solving",
+            "Strategic Planning",
+            "Six Sigma",
+            "Communication",
+            "Process Improvement",
+            "Vendor Management",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "operations manager",
+            "supply chain",
+            "logistics",
+            "process improvement",
+            "six sigma",
+            "vendor management"
+        ]
+    },
+    {
+        "job_id": "PI-1080",
+        "job_title": "Management Consultant",
+        "category": "Business & Management",
+        "sub_category": "Operations",
+        "skills": [
+            "Change Management",
+            "Strategy",
+            "Financial Analysis",
+            "Problem Solving",
+            "Strategic Planning",
+            "Communication",
+            "Client Relations",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "management consultant",
+            "strategy",
+            "change management",
+            "financial analysis",
+            "client relations"
+        ]
+    },
+    {
+        "job_id": "PI-1081",
+        "job_title": "Senior Management Consultant",
+        "category": "Business & Management",
+        "sub_category": "Operations",
+        "skills": [
+            "Change Management",
+            "Strategy",
+            "Financial Analysis",
+            "Problem Solving",
+            "Strategic Planning",
+            "Communication",
+            "Mentoring",
+            "Client Relations",
+            "Architecture",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "management consultant",
+            "strategy",
+            "change management",
+            "financial analysis",
+            "client relations"
+        ]
+    },
+    {
+        "job_id": "PI-1082",
+        "job_title": "Lead Management Consultant",
+        "category": "Business & Management",
+        "sub_category": "Operations",
+        "skills": [
+            "Budgeting",
+            "Change Management",
+            "Strategy",
+            "Financial Analysis",
+            "Problem Solving",
+            "Strategic Planning",
+            "Team Management",
+            "Communication",
+            "Cross-functional Leadership",
+            "Client Relations",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "management consultant",
+            "strategy",
+            "change management",
+            "financial analysis",
+            "client relations"
+        ]
+    },
+    {
+        "job_id": "PI-1083",
+        "job_title": "Junior Management Consultant",
+        "category": "Business & Management",
+        "sub_category": "Operations",
+        "skills": [
+            "Change Management",
+            "Strategy",
+            "Financial Analysis",
+            "Problem Solving",
+            "Strategic Planning",
+            "Communication",
+            "Client Relations",
+            "Time Management",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Leadership",
+            "Communication",
+            "Problem Solving"
+        ],
+        "tools": [
+            "Microsoft Office",
+            "Trello",
+            "Asana"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "management consultant",
+            "strategy",
+            "change management",
+            "financial analysis",
+            "client relations"
+        ]
+    },
+    {
+        "job_id": "PI-1084",
+        "job_title": "Marketing Manager",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "SEM",
+            "Content Strategy",
+            "Campaign Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Social Media",
+            "Email Marketing",
+            "Negotiation",
+            "SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "marketing manager",
+            "seo",
+            "sem",
+            "content strategy",
+            "email marketing",
+            "social media",
+            "campaign management"
+        ]
+    },
+    {
+        "job_id": "PI-1085",
+        "job_title": "Senior Marketing Manager",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "SEM",
+            "Content Strategy",
+            "Strategy",
+            "Campaign Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Social Media",
+            "Email Marketing",
+            "Mentoring",
+            "Negotiation",
+            "Architecture",
+            "SEO",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "marketing manager",
+            "seo",
+            "sem",
+            "content strategy",
+            "email marketing",
+            "social media",
+            "campaign management"
+        ]
+    },
+    {
+        "job_id": "PI-1086",
+        "job_title": "Lead Marketing Manager",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Budgeting",
+            "SEM",
+            "Content Strategy",
+            "Team Management",
+            "Campaign Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Social Media",
+            "Email Marketing",
+            "Cross-functional Leadership",
+            "Negotiation",
+            "SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "marketing manager",
+            "seo",
+            "sem",
+            "content strategy",
+            "email marketing",
+            "social media",
+            "campaign management"
+        ]
+    },
+    {
+        "job_id": "PI-1087",
+        "job_title": "Junior Marketing Manager",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "SEM",
+            "Content Strategy",
+            "Campaign Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Social Media",
+            "Email Marketing",
+            "Negotiation",
+            "SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "marketing manager",
+            "seo",
+            "sem",
+            "content strategy",
+            "email marketing",
+            "social media",
+            "campaign management"
+        ]
+    },
+    {
+        "job_id": "PI-1088",
+        "job_title": "Sales Executive",
+        "category": "Sales & Marketing",
+        "sub_category": "B2B Sales",
+        "skills": [
+            "Lead Generation",
+            "Account Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Closing",
+            "Cold Calling",
+            "Negotiation",
+            "B2B",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "sales executive",
+            "lead generation",
+            "closing",
+            "b2b",
+            "account management",
+            "cold calling"
+        ]
+    },
+    {
+        "job_id": "PI-1089",
+        "job_title": "Senior Sales Executive",
+        "category": "Sales & Marketing",
+        "sub_category": "B2B Sales",
+        "skills": [
+            "Lead Generation",
+            "Account Management",
+            "Strategy",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Closing",
+            "Mentoring",
+            "Cold Calling",
+            "Negotiation",
+            "Architecture",
+            "B2B",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "sales executive",
+            "lead generation",
+            "closing",
+            "b2b",
+            "account management",
+            "cold calling"
+        ]
+    },
+    {
+        "job_id": "PI-1090",
+        "job_title": "Lead Sales Executive",
+        "category": "Sales & Marketing",
+        "sub_category": "B2B Sales",
+        "skills": [
+            "Budgeting",
+            "Lead Generation",
+            "Account Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Closing",
+            "Cross-functional Leadership",
+            "Cold Calling",
+            "Negotiation",
+            "B2B",
+            "Team Management",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "sales executive",
+            "lead generation",
+            "closing",
+            "b2b",
+            "account management",
+            "cold calling"
+        ]
+    },
+    {
+        "job_id": "PI-1091",
+        "job_title": "Junior Sales Executive",
+        "category": "Sales & Marketing",
+        "sub_category": "B2B Sales",
+        "skills": [
+            "Lead Generation",
+            "Account Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Closing",
+            "Cold Calling",
+            "Negotiation",
+            "B2B",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "sales executive",
+            "lead generation",
+            "closing",
+            "b2b",
+            "account management",
+            "cold calling"
+        ]
+    },
+    {
+        "job_id": "PI-1092",
+        "job_title": "Content Writer",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Research",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Blogging",
+            "Negotiation",
+            "Editing",
+            "Copywriting",
+            "SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "content writer",
+            "copywriting",
+            "seo",
+            "editing",
+            "blogging",
+            "research"
+        ]
+    },
+    {
+        "job_id": "PI-1093",
+        "job_title": "Senior Content Writer",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Strategy",
+            "Research",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Blogging",
+            "Mentoring",
+            "Negotiation",
+            "Editing",
+            "Architecture",
+            "Copywriting",
+            "SEO",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "content writer",
+            "copywriting",
+            "seo",
+            "editing",
+            "blogging",
+            "research"
+        ]
+    },
+    {
+        "job_id": "PI-1094",
+        "job_title": "Lead Content Writer",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Budgeting",
+            "Research",
+            "Team Management",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Cross-functional Leadership",
+            "Blogging",
+            "Negotiation",
+            "Editing",
+            "Copywriting",
+            "SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "content writer",
+            "copywriting",
+            "seo",
+            "editing",
+            "blogging",
+            "research"
+        ]
+    },
+    {
+        "job_id": "PI-1095",
+        "job_title": "Junior Content Writer",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Research",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Blogging",
+            "Negotiation",
+            "Editing",
+            "Copywriting",
+            "SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "content writer",
+            "copywriting",
+            "seo",
+            "editing",
+            "blogging",
+            "research"
+        ]
+    },
+    {
+        "job_id": "PI-1096",
+        "job_title": "SEO Specialist",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Google Search Console",
+            "Off-Page SEO",
+            "Link Building",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Negotiation",
+            "Keyword Research",
+            "On-Page SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "seo specialist",
+            "keyword research",
+            "on-page seo",
+            "off-page seo",
+            "google search console",
+            "link building"
+        ]
+    },
+    {
+        "job_id": "PI-1097",
+        "job_title": "Senior SEO Specialist",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Google Search Console",
+            "Off-Page SEO",
+            "Strategy",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Architecture",
+            "Mentoring",
+            "Negotiation",
+            "Keyword Research",
+            "Link Building",
+            "On-Page SEO",
+            "Leadership",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "seo specialist",
+            "keyword research",
+            "on-page seo",
+            "off-page seo",
+            "google search console",
+            "link building"
+        ]
+    },
+    {
+        "job_id": "PI-1098",
+        "job_title": "Lead SEO Specialist",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Budgeting",
+            "Google Search Console",
+            "Off-Page SEO",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Cross-functional Leadership",
+            "Negotiation",
+            "Keyword Research",
+            "Link Building",
+            "On-Page SEO",
+            "Team Management",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "seo specialist",
+            "keyword research",
+            "on-page seo",
+            "off-page seo",
+            "google search console",
+            "link building"
+        ]
+    },
+    {
+        "job_id": "PI-1099",
+        "job_title": "Junior SEO Specialist",
+        "category": "Sales & Marketing",
+        "sub_category": "Content Creation",
+        "skills": [
+            "Google Search Console",
+            "Off-Page SEO",
+            "Link Building",
+            "Customer Relationship Management",
+            "Communication",
+            "Creativity",
+            "Negotiation",
+            "Keyword Research",
+            "On-Page SEO",
+            "Data Analysis"
+        ],
+        "soft_skills": [
+            "Communication"
+        ],
+        "tools": [
+            "Salesforce",
+            "HubSpot",
+            "Google Analytics"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "seo specialist",
+            "keyword research",
+            "on-page seo",
+            "off-page seo",
+            "google search console",
+            "link building"
+        ]
+    },
+    {
+        "job_id": "PI-1100",
+        "job_title": "Mechanical Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "CAD/CAM",
+            "Mathematics",
+            "Problem Solving",
+            "Finite Element Analysis",
+            "Manufacturing Processes",
+            "Thermodynamics",
+            "Material Science",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "mechanical engineer",
+            "thermodynamics",
+            "cad/cam",
+            "manufacturing processes",
+            "material science",
+            "finite element analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1101",
+        "job_title": "Senior Mechanical Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "CAD/CAM",
+            "Strategy",
+            "Mathematics",
+            "Problem Solving",
+            "AutoCAD",
+            "Manufacturing Processes",
+            "Mentoring",
+            "Thermodynamics",
+            "Material Science",
+            "Architecture",
+            "Project Management",
+            "Finite Element Analysis",
+            "Physics",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "mechanical engineer",
+            "thermodynamics",
+            "cad/cam",
+            "manufacturing processes",
+            "material science",
+            "finite element analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1102",
+        "job_title": "Lead Mechanical Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "Budgeting",
+            "CAD/CAM",
+            "Mathematics",
+            "Problem Solving",
+            "AutoCAD",
+            "Team Management",
+            "Cross-functional Leadership",
+            "Manufacturing Processes",
+            "Thermodynamics",
+            "Material Science",
+            "Project Management",
+            "Finite Element Analysis",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "mechanical engineer",
+            "thermodynamics",
+            "cad/cam",
+            "manufacturing processes",
+            "material science",
+            "finite element analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1103",
+        "job_title": "Junior Mechanical Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "CAD/CAM",
+            "Mathematics",
+            "Problem Solving",
+            "Finite Element Analysis",
+            "Manufacturing Processes",
+            "Thermodynamics",
+            "Material Science",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "mechanical engineer",
+            "thermodynamics",
+            "cad/cam",
+            "manufacturing processes",
+            "material science",
+            "finite element analysis"
+        ]
+    },
+    {
+        "job_id": "PI-1104",
+        "job_title": "Civil Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "Geotechnical Engineering",
+            "Mathematics",
+            "Problem Solving",
+            "Surveying",
+            "Structural Design",
+            "Construction Management",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "civil engineer",
+            "structural design",
+            "construction management",
+            "surveying",
+            "geotechnical engineering"
+        ]
+    },
+    {
+        "job_id": "PI-1105",
+        "job_title": "Senior Civil Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "Geotechnical Engineering",
+            "Strategy",
+            "Mathematics",
+            "Problem Solving",
+            "Surveying",
+            "Structural Design",
+            "Construction Management",
+            "Mentoring",
+            "Architecture",
+            "Project Management",
+            "AutoCAD",
+            "Physics",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "civil engineer",
+            "structural design",
+            "construction management",
+            "surveying",
+            "geotechnical engineering"
+        ]
+    },
+    {
+        "job_id": "PI-1106",
+        "job_title": "Lead Civil Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "Geotechnical Engineering",
+            "Budgeting",
+            "Mathematics",
+            "Problem Solving",
+            "Team Management",
+            "Surveying",
+            "Cross-functional Leadership",
+            "Structural Design",
+            "Construction Management",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "civil engineer",
+            "structural design",
+            "construction management",
+            "surveying",
+            "geotechnical engineering"
+        ]
+    },
+    {
+        "job_id": "PI-1107",
+        "job_title": "Junior Civil Engineer",
+        "category": "Engineering",
+        "sub_category": "Electrical",
+        "skills": [
+            "Geotechnical Engineering",
+            "Mathematics",
+            "Problem Solving",
+            "Surveying",
+            "Structural Design",
+            "Construction Management",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "civil engineer",
+            "structural design",
+            "construction management",
+            "surveying",
+            "geotechnical engineering"
+        ]
+    },
+    {
+        "job_id": "PI-1108",
+        "job_title": "Electrical Engineer",
+        "category": "Engineering",
+        "sub_category": "Mechanical",
+        "skills": [
+            "Mathematics",
+            "Problem Solving",
+            "Circuit Design",
+            "Control Systems",
+            "Electronics",
+            "PLC",
+            "Power Systems",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "electrical engineer",
+            "circuit design",
+            "power systems",
+            "plc",
+            "control systems",
+            "electronics"
+        ]
+    },
+    {
+        "job_id": "PI-1109",
+        "job_title": "Senior Electrical Engineer",
+        "category": "Engineering",
+        "sub_category": "Mechanical",
+        "skills": [
+            "Strategy",
+            "Mathematics",
+            "Problem Solving",
+            "Circuit Design",
+            "Control Systems",
+            "Electronics",
+            "Mentoring",
+            "PLC",
+            "Power Systems",
+            "Architecture",
+            "Project Management",
+            "AutoCAD",
+            "Physics",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "electrical engineer",
+            "circuit design",
+            "power systems",
+            "plc",
+            "control systems",
+            "electronics"
+        ]
+    },
+    {
+        "job_id": "PI-1110",
+        "job_title": "Lead Electrical Engineer",
+        "category": "Engineering",
+        "sub_category": "Mechanical",
+        "skills": [
+            "Budgeting",
+            "Mathematics",
+            "Problem Solving",
+            "Circuit Design",
+            "Team Management",
+            "Control Systems",
+            "Electronics",
+            "Cross-functional Leadership",
+            "PLC",
+            "Power Systems",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "electrical engineer",
+            "circuit design",
+            "power systems",
+            "plc",
+            "control systems",
+            "electronics"
+        ]
+    },
+    {
+        "job_id": "PI-1111",
+        "job_title": "Junior Electrical Engineer",
+        "category": "Engineering",
+        "sub_category": "Mechanical",
+        "skills": [
+            "Mathematics",
+            "Problem Solving",
+            "Circuit Design",
+            "Control Systems",
+            "Electronics",
+            "PLC",
+            "Power Systems",
+            "Project Management",
+            "AutoCAD",
+            "Physics"
+        ],
+        "soft_skills": [
+            "Problem Solving"
+        ],
+        "tools": [
+            "AutoCAD",
+            "SolidWorks",
+            "MATLAB"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "electrical engineer",
+            "circuit design",
+            "power systems",
+            "plc",
+            "control systems",
+            "electronics"
+        ]
+    },
+    {
+        "job_id": "PI-1112",
+        "job_title": "UX/UI Designer",
+        "category": "Design & Arts",
+        "sub_category": "UX/UI Design",
+        "skills": [
+            "Color Theory",
+            "User Research",
+            "Usability Testing",
+            "Prototyping",
+            "Interaction Design",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Typography",
+            "Wireframing"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "ux/ui designer",
+            "wireframing",
+            "prototyping",
+            "user research",
+            "usability testing",
+            "interaction design"
+        ]
+    },
+    {
+        "job_id": "PI-1113",
+        "job_title": "Senior UX/UI Designer",
+        "category": "Design & Arts",
+        "sub_category": "UX/UI Design",
+        "skills": [
+            "Color Theory",
+            "User Research",
+            "Strategy",
+            "Usability Testing",
+            "Prototyping",
+            "Interaction Design",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Mentoring",
+            "Typography",
+            "Architecture",
+            "Leadership",
+            "Wireframing"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "ux/ui designer",
+            "wireframing",
+            "prototyping",
+            "user research",
+            "usability testing",
+            "interaction design"
+        ]
+    },
+    {
+        "job_id": "PI-1114",
+        "job_title": "Lead UX/UI Designer",
+        "category": "Design & Arts",
+        "sub_category": "UX/UI Design",
+        "skills": [
+            "Budgeting",
+            "Color Theory",
+            "User Research",
+            "Usability Testing",
+            "Prototyping",
+            "Interaction Design",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Cross-functional Leadership",
+            "Typography",
+            "Team Management",
+            "Wireframing"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "ux/ui designer",
+            "wireframing",
+            "prototyping",
+            "user research",
+            "usability testing",
+            "interaction design"
+        ]
+    },
+    {
+        "job_id": "PI-1115",
+        "job_title": "Junior UX/UI Designer",
+        "category": "Design & Arts",
+        "sub_category": "UX/UI Design",
+        "skills": [
+            "Color Theory",
+            "User Research",
+            "Usability Testing",
+            "Prototyping",
+            "Interaction Design",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Typography",
+            "Wireframing"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "ux/ui designer",
+            "wireframing",
+            "prototyping",
+            "user research",
+            "usability testing",
+            "interaction design"
+        ]
+    },
+    {
+        "job_id": "PI-1116",
+        "job_title": "Graphic Designer",
+        "category": "Design & Arts",
+        "sub_category": "Graphic Design",
+        "skills": [
+            "Color Theory",
+            "Layout Design",
+            "Branding",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Illustration",
+            "Photoshop",
+            "Typography",
+            "Illustrator"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "graphic designer",
+            "illustration",
+            "branding",
+            "layout design",
+            "photoshop",
+            "illustrator"
+        ]
+    },
+    {
+        "job_id": "PI-1117",
+        "job_title": "Senior Graphic Designer",
+        "category": "Design & Arts",
+        "sub_category": "Graphic Design",
+        "skills": [
+            "Color Theory",
+            "Layout Design",
+            "Strategy",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Mentoring",
+            "Architecture",
+            "Illustration",
+            "Photoshop",
+            "Typography",
+            "Branding",
+            "Illustrator",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "graphic designer",
+            "illustration",
+            "branding",
+            "layout design",
+            "photoshop",
+            "illustrator"
+        ]
+    },
+    {
+        "job_id": "PI-1118",
+        "job_title": "Lead Graphic Designer",
+        "category": "Design & Arts",
+        "sub_category": "Graphic Design",
+        "skills": [
+            "Budgeting",
+            "Color Theory",
+            "Layout Design",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Cross-functional Leadership",
+            "Illustration",
+            "Photoshop",
+            "Typography",
+            "Branding",
+            "Illustrator",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "graphic designer",
+            "illustration",
+            "branding",
+            "layout design",
+            "photoshop",
+            "illustrator"
+        ]
+    },
+    {
+        "job_id": "PI-1119",
+        "job_title": "Junior Graphic Designer",
+        "category": "Design & Arts",
+        "sub_category": "Graphic Design",
+        "skills": [
+            "Color Theory",
+            "Layout Design",
+            "Branding",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Illustration",
+            "Photoshop",
+            "Typography",
+            "Illustrator"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "graphic designer",
+            "illustration",
+            "branding",
+            "layout design",
+            "photoshop",
+            "illustrator"
+        ]
+    },
+    {
+        "job_id": "PI-1120",
+        "job_title": "3D Animator",
+        "category": "Design & Arts",
+        "sub_category": "Animation",
+        "skills": [
+            "Blender",
+            "Color Theory",
+            "Maya",
+            "Rendering",
+            "Rigging",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Typography",
+            "Character Animation"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "3d animator",
+            "maya",
+            "blender",
+            "character animation",
+            "rigging",
+            "rendering"
+        ]
+    },
+    {
+        "job_id": "PI-1121",
+        "job_title": "Senior 3D Animator",
+        "category": "Design & Arts",
+        "sub_category": "Animation",
+        "skills": [
+            "Blender",
+            "Color Theory",
+            "Strategy",
+            "Rendering",
+            "Maya",
+            "Rigging",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Mentoring",
+            "Architecture",
+            "Typography",
+            "Character Animation",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "3d animator",
+            "maya",
+            "blender",
+            "character animation",
+            "rigging",
+            "rendering"
+        ]
+    },
+    {
+        "job_id": "PI-1122",
+        "job_title": "Lead 3D Animator",
+        "category": "Design & Arts",
+        "sub_category": "Animation",
+        "skills": [
+            "Budgeting",
+            "Blender",
+            "Color Theory",
+            "Rendering",
+            "Maya",
+            "Rigging",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Cross-functional Leadership",
+            "Typography",
+            "Character Animation",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "3d animator",
+            "maya",
+            "blender",
+            "character animation",
+            "rigging",
+            "rendering"
+        ]
+    },
+    {
+        "job_id": "PI-1123",
+        "job_title": "Junior 3D Animator",
+        "category": "Design & Arts",
+        "sub_category": "Animation",
+        "skills": [
+            "Blender",
+            "Color Theory",
+            "Maya",
+            "Rendering",
+            "Rigging",
+            "Creativity",
+            "Visual Communication",
+            "Attention to Detail",
+            "Typography",
+            "Character Animation"
+        ],
+        "soft_skills": [
+            "Visual Communication"
+        ],
+        "tools": [
+            "Figma",
+            "Adobe Creative Suite"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "3d animator",
+            "maya",
+            "blender",
+            "character animation",
+            "rigging",
+            "rendering"
+        ]
+    },
+    {
+        "job_id": "PI-1124",
+        "job_title": "HR Manager",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Employee Relations",
+            "Benefits Administration",
+            "Performance Management",
+            "Compliance",
+            "Communication",
+            "Organization",
+            "Empathy",
+            "Conflict Resolution"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "hr manager",
+            "employee relations",
+            "performance management",
+            "compliance",
+            "benefits administration"
+        ]
+    },
+    {
+        "job_id": "PI-1125",
+        "job_title": "Senior HR Manager",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Employee Relations",
+            "Strategy",
+            "Benefits Administration",
+            "Performance Management",
+            "Compliance",
+            "Communication",
+            "Architecture",
+            "Mentoring",
+            "Organization",
+            "Empathy",
+            "Conflict Resolution",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "hr manager",
+            "employee relations",
+            "performance management",
+            "compliance",
+            "benefits administration"
+        ]
+    },
+    {
+        "job_id": "PI-1126",
+        "job_title": "Lead HR Manager",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Budgeting",
+            "Employee Relations",
+            "Benefits Administration",
+            "Performance Management",
+            "Compliance",
+            "Communication",
+            "Cross-functional Leadership",
+            "Organization",
+            "Empathy",
+            "Conflict Resolution",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "hr manager",
+            "employee relations",
+            "performance management",
+            "compliance",
+            "benefits administration"
+        ]
+    },
+    {
+        "job_id": "PI-1127",
+        "job_title": "Junior HR Manager",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Employee Relations",
+            "Benefits Administration",
+            "Performance Management",
+            "Compliance",
+            "Communication",
+            "Organization",
+            "Empathy",
+            "Conflict Resolution"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "hr manager",
+            "employee relations",
+            "performance management",
+            "compliance",
+            "benefits administration"
+        ]
+    },
+    {
+        "job_id": "PI-1128",
+        "job_title": "Technical Recruiter",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Applicant Tracking Systems",
+            "Sourcing",
+            "Communication",
+            "Interviewing",
+            "Organization",
+            "Negotiation",
+            "Market Research",
+            "Empathy",
+            "Conflict Resolution"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Entry",
+            "Mid",
+            "Senior"
+        ],
+        "keywords": [
+            "technical recruiter",
+            "sourcing",
+            "interviewing",
+            "applicant tracking systems",
+            "negotiation",
+            "market research"
+        ]
+    },
+    {
+        "job_id": "PI-1129",
+        "job_title": "Senior Technical Recruiter",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Applicant Tracking Systems",
+            "Sourcing",
+            "Strategy",
+            "Interviewing",
+            "Communication",
+            "Architecture",
+            "Mentoring",
+            "Organization",
+            "Negotiation",
+            "Market Research",
+            "Empathy",
+            "Conflict Resolution",
+            "Leadership"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Senior",
+            "Lead"
+        ],
+        "keywords": [
+            "technical recruiter",
+            "sourcing",
+            "interviewing",
+            "applicant tracking systems",
+            "negotiation",
+            "market research"
+        ]
+    },
+    {
+        "job_id": "PI-1130",
+        "job_title": "Lead Technical Recruiter",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Applicant Tracking Systems",
+            "Budgeting",
+            "Sourcing",
+            "Interviewing",
+            "Communication",
+            "Cross-functional Leadership",
+            "Organization",
+            "Negotiation",
+            "Market Research",
+            "Empathy",
+            "Conflict Resolution",
+            "Team Management"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Lead",
+            "Manager"
+        ],
+        "keywords": [
+            "technical recruiter",
+            "sourcing",
+            "interviewing",
+            "applicant tracking systems",
+            "negotiation",
+            "market research"
+        ]
+    },
+    {
+        "job_id": "PI-1131",
+        "job_title": "Junior Technical Recruiter",
+        "category": "Human Resources",
+        "sub_category": "Training",
+        "skills": [
+            "Applicant Tracking Systems",
+            "Sourcing",
+            "Communication",
+            "Interviewing",
+            "Organization",
+            "Negotiation",
+            "Market Research",
+            "Empathy",
+            "Conflict Resolution"
+        ],
+        "soft_skills": [
+            "Communication",
+            "Empathy"
+        ],
+        "tools": [
+            "Workday",
+            "BambooHR"
+        ],
+        "experience_levels": [
+            "Entry"
+        ],
+        "keywords": [
+            "technical recruiter",
+            "sourcing",
+            "interviewing",
+            "applicant tracking systems",
+            "negotiation",
+            "market research"
+        ]
+    }
+]

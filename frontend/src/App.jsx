@@ -42,7 +42,7 @@ function App() {
     formData.append('job_description', jd);
 
     try {
-      const res = await fetch('http://127.0.0.1:8000/api/analyze', { method: 'POST', body: formData });
+      const res = await fetch('https://pi-resume-api.onrender.com', { method: 'POST', body: formData });
       const data = await res.json();
       setResults(data.results);
     } catch(err) {

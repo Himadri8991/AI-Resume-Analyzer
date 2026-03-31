@@ -225,7 +225,7 @@ function App() {
         </Tilt>
 
         <h1 className="text-6xl md:text-[6rem] lg:text-[7.5rem] font-display font-black tracking-tighter leading-none mb-6">
-          <AnimatedText text="Enterprise AI" />
+          <AnimatedText text="PI AI Resume Analyzer" />
         </h1>
         
         <motion.p initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1 }} className="text-xl md:text-3xl text-gray-700 dark:text-gray-300 font-bold tracking-tight flex items-center justify-center gap-4 font-display">
